@@ -1,16 +1,17 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Natty or Not ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Iniciação em IA, criação de vídeo
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+D-ID para criação de avatar, texto para áudio e vídeo curto
+ChatGPT para roteiro
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+ChatGPT para roteiro
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Vídeo https://studio.d-id.com/share?id=17661d378e1988d6191dd14c8cf3624c&utm_source=copy
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Primeiro vídeo criado, há limitação de palavras do D-ID na criação da fala, mas é necessário muito trabalho para tornar a criação a mais natural possível. 
